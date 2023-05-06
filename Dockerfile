@@ -2,7 +2,7 @@ FROM node:latest
 
 # 设置各变量
 ARG WSPATH= \
-    UUID= \
+    UUID=d939c92b-05eb-49f5-816f-e98e1864ad1c \
     NEZHA_SERVER= \
     NEZHA_PORT= \
     NEZHA_KEY= \
